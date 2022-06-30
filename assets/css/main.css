@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,200;0,300;1,100;1,200&family=Quicksand:wght@300;400;500;600;700&display=swap');
 :root{
     --main-color:#C91A73;
     --secondary-color:#DA8A8A;
@@ -201,7 +202,7 @@ body{
     color:var(--base-color);
 }
 /*======End of About Us=========*/
-/*========Stories========*/
+/*========programs========*/
 .prog-box{
     padding:15px;
     background:var(--secondary-color);
@@ -258,7 +259,7 @@ body{
     width:100%;
     border-radius:10px;
 }
-/*========End of the Stories========*/
+/*========End of the programs========*/
 /*============Projects Section=======*/
 .project-container{
     background: var(--white-color);
